@@ -1,0 +1,29 @@
+Este é um quiz interativo projetado para testar seus conhecimentos sobre diversos tópicos. Aqui, você encontrará uma variedade de perguntas desafiadoras e interessantes, abrangendo diferentes áreas do conhecimento.
+
+Cada pergunta possui múltiplas opções de resposta, e você terá que escolher a que considerar correta. Ao finalizar o quiz, você receberá um relatório com sua pontuação final e estatísticas sobre seu desempenho.
+
+Divirta-se enquanto testa seus conhecimentos e aprende algo novo!
+
+Mergulhe em um universo de conhecimento e divirta-se ao mesmo tempo! Nosso quiz oferece uma experiência única para testar seus conhecimentos em diversas áreas.
+
+Por que jogar nosso quiz?
+
+Amplie seus conhecimentos: Explore temas variados e descubra fatos interessantes que você talvez não conhecesse.
+Desafie sua mente: Nossas perguntas são elaboradas para estimular seu raciocínio e desafiar seus limites.
+Divirta-se: Uma forma divertida e interativa de aprender e passar o tempo.
+Compartilhe seus resultados: Convide seus amigos para jogar e descubram quem sabe mais!
+Como funciona?
+
+É simples! Basta escolher a categoria que deseja jogar e responder às perguntas. Ao final, você receberá um feedback detalhado sobre seu desempenho, incluindo sua pontuação total e o número de acertos e erros.
+
+Nosso quiz é perfeito para todas as idades e níveis de conhecimento. Então, o que você está esperando? Comece agora mesmo sua jornada de aprendizado!
+
+Características:
+
+Diversidade de temas: Abrange desde cultura geral até temas mais específicos.
+Perguntas desafiadoras: Desenvolvidas para estimular seu raciocínio crítico.
+Interface intuitiva: Fácil de navegar e jogar.
+Gráficos e animações: Tornam a experiência ainda mais divertida.
+Jogue agora e descubra o quão inteligente você é!
+
+Carinhosamente Desenvolvido por: <a href="https://github.com/Viniciusleao1" target="_blank">Viniciusleao1</a>, GitHub: <a href="https://github.com/Viniciusleao1" target="_blank">https://github.com/Viniciusleao1</a> ✨🤓
