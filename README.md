@@ -1,10 +1,6 @@
 # Quizzer
 Repositório do projeto Quizzer, uma aplicação web interativa desenvolvida em PHP, CSS e JavaScript para criação e realização de quizzes online personalizados. Ideal para professores e estudantes, o Quizzer oferece um ambiente dinâmico e gamificado para aprendizado e avaliação. DEMO: http://viniciusquizphp.rf.gd/
 
-
-# Quizzer
-Um sistema de quiz online construído em PHP, JS e HTML. Ele tem suporte a Timer embutido junto com Painel de Administração
-
 # Recursos adicionados:
 
 1. Adicionado suporte ao Timer.
